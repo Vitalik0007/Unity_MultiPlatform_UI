@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de94b15f17a74f0984cd542d5ced946, type: 3}
+  m_Name: TitleScreenHintSet
+  m_EditorClassIdentifier: 
+  keyboardMouseHints:
+  - key: titleScreenHint
+    icon: {fileID: 5524158511961760082, guid: e3e142ebed91e4c4385a11fca27a19bf, type: 3}
+    text: Press
+    visibilityOverrides:
+    - target: 0
+      activeState: 0
+    - target: 1
+      activeState: 0
+  xboxHints:
+  - key: titleScreenHint
+    icon: {fileID: 6214025593945287145, guid: 380cadcfe8d904692ae08b38248ea4cc, type: 3}
+    text: Press
+    visibilityOverrides:
+    - target: 0
+      activeState: 0
+    - target: 1
+      activeState: 0
+  psHints:
+  - key: titleScreenHint
+    icon: {fileID: -2259648917126369055, guid: a34e8a5a351254d6ebb90cfaacf51fe1, type: 3}
+    text: Press
+    visibilityOverrides:
+    - target: 0
+      activeState: 0
+    - target: 1
+      activeState: 0

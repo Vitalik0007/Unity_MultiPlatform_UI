@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: a34e8a5a351254d6ebb90cfaacf51fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7850652466960609446
+    second: PlayStation_0
+  - first:
+      213: 5307597781708824855
+    second: PlayStation_1
+  - first:
+      213: -2803143798773699166
+    second: PlayStation_2
+  - first:
+      213: -2624678961895131202
+    second: PlayStation_3
+  - first:
+      213: 83912279740453611
+    second: PlayStation_4
+  - first:
+      213: 3060620537987845794
+    second: PlayStation_5
+  - first:
+      213: -277890972794367342
+    second: PlayStation_6
+  - first:
+      213: -3260343292971752672
+    second: PlayStation_7
+  - first:
+      213: -3156856315297918592
+    second: PlayStation_8
+  - first:
+      213: 4411904052449397572
+    second: PlayStation_9
+  - first:
+      213: 5486783109193627096
+    second: PlayStation_10
+  - first:
+      213: 3155454423318918759
+    second: PlayStation_11
+  - first:
+      213: 5744099111205715120
+    second: PlayStation_12
+  - first:
+      213: 7124920452980450763
+    second: PlayStation_13
+  - first:
+      213: -5159748259601525129
+    second: PlayStation_14
+  - first:
+      213: -4899772766932804194
+    second: PlayStation_15
+  - first:
+      213: 5634497960644141884
+    second: PlayStation_16
+  - first:
+      213: -15883076706199432
+    second: PlayStation_17
+  - first:
+      213: -7801972582791321025
+    second: PlayStation_18
+  - first:
+      213: 941191872511900686
+    second: PlayStation_19
+  - first:
+      213: 3060652284428972261
+    second: PlayStation_20
+  - first:
+      213: -7659384908957416949
+    second: PlayStation_21
+  - first:
+      213: 6445460879895680101
+    second: PlayStation_22
+  - first:
+      213: -3542032924890734967
+    second: PlayStation_23
+  - first:
+      213: -2052485799687863932
+    second: PlayStation_24
+  - first:
+      213: 5586671085139671946
+    second: PlayStation_25
+  - first:
+      213: -7430288211069923220
+    second: PlayStation_26
+  - first:
+      213: 9058886329712358054
+    second: PlayStation_27
+  - first:
+      213: 7650082379141809881
+    second: PlayStation_28
+  - first:
+      213: -1192240220525906163
+    second: PlayStation_29
+  - first:
+      213: -7478017398032787215
+    second: PlayStation_30
+  - first:
+      213: -2259648917126369055
+    second: PlayStation_31
+  - first:
+      213: -1480188826977033212
+    second: PlayStation_32
+  - first:
+      213: -7815946698284412990
+    second: PlayStation_33
+  - first:
+      213: 2414485686550226398
+    second: PlayStation_34
+  - first:
+      213: -7624337569055190250
+    second: PlayStation_35
+  - first:
+      213: -5078083656933835511
+    second: PlayStation_36
+  - first:
+      213: 6858165890135921733
+    second: PlayStation_37
+  - first:
+      213: -4957914650420107175
+    second: PlayStation_38
+  - first:
+      213: 2815781749368660380
+    second: PlayStation_39
+  - first:
+      213: -754895527987933717
+    second: PlayStation_40
+  - first:
+      213: -9132931264693322150
+    second: PlayStation_41
+  - first:
+      213: -1601631281378906065
+    second: PlayStation_42
+  - first:
+      213: -5781363135095824467
+    second: PlayStation_43
+  - first:
+      213: -303696081117717546
+    second: PlayStation_44
+  - first:
+      213: -7015330586030818372
+    second: PlayStation_45
+  - first:
+      213: -1361592578565350338
+    second: PlayStation_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcbd0645b327bf40800000000000000
+      internalID: 5744099111205715120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5a0dc076dc0e260800000000000000
+      internalID: 7124920452980450763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776d200ab44e468b0800000000000000
+      internalID: -5159748259601525129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d56dae0a2800cb0800000000000000
+      internalID: -4899772766932804194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c336bd7da02c13e40800000000000000
+      internalID: 5634497960644141884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 370
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789cf60d6297cff0800000000000000
+      internalID: -15883076706199432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 371
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae267c543d9b390800000000000000
+      internalID: -7801972582791321025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 371
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7e8a7509cf0d00800000000000000
+      internalID: 941191872511900686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e07062690f997a20800000000000000
+      internalID: 3060652284428972261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 279
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020b97a10664b590800000000000000
+      internalID: -7659384908957416949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 279
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564dbdf4580e27950800000000000000
+      internalID: 6445460879895680101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 279
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e562142db28dec0800000000000000
+      internalID: -3542032924890734967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_24
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 275
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481421b2a0b1483e0800000000000000
+      internalID: -2052485799687863932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 275
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b32b2a0c7d78d40800000000000000
+      internalID: 5586671085139671946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_26
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 279
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6097684d3052e890800000000000000
+      internalID: -7430288211069923220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_27
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 279
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b52fee11a7bd70800000000000000
+      internalID: 9058886329712358054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d60937546d8a2a60800000000000000
+      internalID: 7650082379141809881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 183
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07be9016df447fe0800000000000000
+      internalID: -1192240220525906163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f89016fbceb83890800000000000000
+      internalID: -7478017398032787215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 183
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03691384d14a0e0800000000000000
+      internalID: -2259648917126369055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404288faa10557be0800000000000000
+      internalID: -1480188826977033212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfce5973ed288390800000000000000
+      internalID: -7815946698284412990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_34
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5671e70f9f18120800000000000000
+      internalID: 2414485686550226398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_35
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613dccc5069e03690800000000000000
+      internalID: -7624337569055190250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dfdb0a1d50789b0800000000000000
+      internalID: -5078083656933835511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544904c7a891d2f50800000000000000
+      internalID: 6858165890135921733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9582103c4e2f13bb0800000000000000
+      internalID: -4957914650420107175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a528159aa31720800000000000000
+      internalID: 2815781749368660380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed8fb354821685f0800000000000000
+      internalID: -754895527987933717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e35e1376f414180800000000000000
+      internalID: -9132931264693322150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_42
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b14cd5dcd5c9e0800000000000000
+      internalID: -1601631281378906065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf131f0cd874cfa0800000000000000
+      internalID: -5781363135095824467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbdc45f50e09cbf0800000000000000
+      internalID: -303696081117717546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb33b5300a84ae90800000000000000
+      internalID: -7015330586030818372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cddc983c6aa1de0800000000000000
+      internalID: -1361592578565350338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcb4ba35e541e49e9baebc6efcde2cea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation_12: 5744099111205715120
+      PlayStation_13: 7124920452980450763
+      PlayStation_14: -5159748259601525129
+      PlayStation_15: -4899772766932804194
+      PlayStation_16: 5634497960644141884
+      PlayStation_17: -15883076706199432
+      PlayStation_18: -7801972582791321025
+      PlayStation_19: 941191872511900686
+      PlayStation_20: 3060652284428972261
+      PlayStation_21: -7659384908957416949
+      PlayStation_22: 6445460879895680101
+      PlayStation_23: -3542032924890734967
+      PlayStation_24: -2052485799687863932
+      PlayStation_25: 5586671085139671946
+      PlayStation_26: -7430288211069923220
+      PlayStation_27: 9058886329712358054
+      PlayStation_28: 7650082379141809881
+      PlayStation_29: -1192240220525906163
+      PlayStation_30: -7478017398032787215
+      PlayStation_31: -2259648917126369055
+      PlayStation_32: -1480188826977033212
+      PlayStation_33: -7815946698284412990
+      PlayStation_34: 2414485686550226398
+      PlayStation_35: -7624337569055190250
+      PlayStation_36: -5078083656933835511
+      PlayStation_37: 6858165890135921733
+      PlayStation_38: -4957914650420107175
+      PlayStation_39: 2815781749368660380
+      PlayStation_40: -754895527987933717
+      PlayStation_41: -9132931264693322150
+      PlayStation_42: -1601631281378906065
+      PlayStation_43: -5781363135095824467
+      PlayStation_44: -303696081117717546
+      PlayStation_45: -7015330586030818372
+      PlayStation_46: -1361592578565350338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
