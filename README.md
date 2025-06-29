@@ -1,51 +1,47 @@
 # Unity_MultiPlatform_UI
 
-## Опис проєкту
+## Project Description
 
-Цей проєкт демонструє багатоплатформний інтерфейс користувача, створений на Unity з підтримкою клавіатури, мишки та геймпадів (Sony DualSense, Xbox Wireless Controller). Застосунок містить кілька інтерактивних екранів, між якими можна вільно перемикатися:
+This project demonstrates a multi-platform user interface built in Unity with support for keyboard, mouse, and gamepads (Sony DualSense, Xbox Wireless Controller). The application features several interactive screens that users can freely navigate between:
 
-- **Title Screen** — початковий екран з індикацією очікування вводу гравця для переходу до меню.
-- **Main Menu** — головний екран вибору дій.
-- **Load/Save** — екран управління збереженнями.
-- **Settings** — розділений на вкладки екран налаштувань із різноманітними UI-елементами: кнопки, слайдери, чекбокси тощо.
-- **Credits** — екран з інформацією про розробників.
+- **Title Screen** — the initial screen displaying a prompt to press a button to proceed to the menu.
+- **Main Menu** — the main screen for selecting actions.
+- **Load/Save** — a screen for managing saved games.
+- **Settings** — a tabbed settings screen with various UI elements: buttons, sliders, checkboxes, and more.
+- **Credits** — a screen showing information about the developers.
 
-Інтерфейс адаптивно реагує на зміну пристроїв вводу, змінюючи відображення кнопок та логіку керування відповідно до підключеного контролера чи ПК.
-
----
-
-## Особливості
-
-- Підтримка геймпадів PlayStation 5 та Xbox Series X|S із відповідною стандартизацією керування.
-- Повна сумісність з клавіатурою та мишкою.
-- Гнучкі анімації інтерфейсу, реалізовані через DOTween, для плавних переходів та інтерактивних ефектів.
-- Звукові ефекти для покращення користувацького досвіду: натискання кнопок, підтвердження вибору та інші інтерактивні звуки.
-- Простий і масштабований код, що дозволяє легко додавати нові екрани та розширювати функціонал.
-- Продумана структура проєкту з організацією файлів і сцен для швидкого розширення функціоналу.
+The interface adapts in real-time to the connected input device, updating button prompts and navigation logic accordingly for gamepads or PC controls.
 
 ---
 
-## Інструкції
+## Features
 
-1. **Запуск**  
-   Тут знаходиться EXE-файл для Windows.
-   [Посилання на проєкт та EXE-файл](https://drive.google.com/drive/folders/1_NcP07FovRIUFtVp3M8_NJtN1SZhqG9M?usp=sharing)
-
-3. **Розробка**  
-   Для роботи з проєктом використовувався Unity 6000.0.49. Проєкт налаштований з використанням Unity Input System.
-
-4. **Відео демонстрація**  
-   Повне відео з оглядом усіх екранів та функціоналу доступне на YouTube:  
-   [Посилання на відео](https://youtu.be/Ix-FRNh_TYI)
+- Support for PlayStation 5 and Xbox Series X|S gamepads with properly standardized controls.
+- Full compatibility with keyboard and mouse.
+- Smooth UI animations using DOTween for seamless transitions and interactive effects.
+- Sound effects to enhance the user experience: button clicks, confirmation sounds, and other interactions.
+- Clean and scalable code architecture that makes it easy to add new screens and extend functionality.
+- Thoughtful project structure with organized files and scenes for quick development and expansion.
 
 ---
 
-## Бонусні функції
+## Instructions
 
-- Кастомні анімації інтерфейсу за допомогою DOTween для плавних та приємних візуальних ефектів.
-- Звукові ефекти, які покращують відчуття від користування інтерфейсом.
-- Гнучка система адаптивного UI під різні платформи та пристрої.
+1. **Run the App**  
+   The EXE file for Windows is available here:  
+   [Project and EXE File Download](https://drive.google.com/drive/folders/1_NcP07FovRIUFtVp3M8_NJtN1SZhqG9M?usp=sharing)
+
+2. **Development**  
+   The project was built using Unity version 6000.0.49 and is configured with the Unity Input System.
+
+3. **Video Demo**  
+   A full video walkthrough of all screens and functionality is available on YouTube:  
+   [Watch the Video](https://youtu.be/Ix-FRNh_TYI)
 
 ---
 
-Дякую за перегляд та оцінку моєї роботи!
+## Bonus Features
+
+- Custom UI animations via DOTween for smooth and pleasing visual effects.
+- Sound effects that enhance the feel of interacting with the UI.
+- A flexible adaptive UI system designed for various platforms and input devices.
